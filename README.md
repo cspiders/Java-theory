@@ -1,15 +1,16 @@
 # Class-01
-# Class-00-Basics-05-10-2022
 
+# => What is Java
+#	=> JDK Installation
+#	=> Write first Java Class
+#	=> PATH Setting
 
-# 
 
 # 1. What is Java
 ### Java is a general-purpose programming language and is a Computing Platform to build standalone, web, and Enterprise applications and services.
-### Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself.
 ### According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.
 <br />
-
+   
 # 2. Write first Java Class
 ## Program-1
 
@@ -29,7 +30,7 @@
 
 ## Naming conventions to Write Class
 ### 1.	Class name should be Noun.
-### 2.	Class name should start with capital letter 
+### 2.	Class name should start with capital letter and follow camel-case
 ### 3.	Use whole words and must avoid acronyms and abbreviations.
 <br />
 
@@ -41,18 +42,15 @@
 }
 <br />
 
-
 ## Naming conventions to write interfaces 
 ### 1.	Interface name should be Adjective such as Runnable, Serializable, etc
 <br />
-
 
 ## Program-3
 ## enum months{
 ## // enum constants are added here.
 ## }
 <br />
-
 
 ## Naming conventions to write enums
 ### 1.	enum name should be in title case (same as class names).
@@ -87,7 +85,7 @@
 ###	  house2.labourInNos = 5;
 ###  System.out.println(house1.costEstimation());
 ###  System.out.println(house2.costEstimation());
-###   System.out.println(house3.costEstimation());
+###  System.out.println(house3.costEstimation());
 ### 	}
 ### double costEstimation (){
 ### double cost = sandInTons+bricksInNos+cementInKgs+labourInNos;
@@ -97,15 +95,16 @@
 <br />
 
 # 3. The Platform
-### A platform is the hardware or software environment in which a program runs. 
+### The meaning of platform is the hardware or software environment in which a program runs. 
 ### We have some of the most popular platforms like Microsoft Windows, Linux, Solaris OS, and Mac OS are available in the market. 
 ### Most platforms can be described as a combination of the operating system and underlying hardware. 
+
 ### The Java platform software-only platform that runs on top of other hardware-based platforms.
 ### The Java platform has two components
-### 1.	The Java Virtual Machine
-### 2.	The Java Application Programming Interface (API)
-### Java Virtual Machine; it's the base for the Java platform and is ported onto various hardware-based platforms.
-### The API is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are known as packages.
+###      1.	The Java Virtual Machine
+###      2.	The Java Application Programming Interface (API)
+### Java Virtual Machine; it's the base for the Java platform and it can be installed on various hardware-based platforms.
+### The API is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are grouped into packages.
 
 <br />
 
