@@ -3,6 +3,7 @@
 # => What is Java
 #	=> JDK Installation
 #	=> Write first Java Class
+#  => Naming conventions for Class, Interface, enums
 #	=> PATH Setting
 
 
