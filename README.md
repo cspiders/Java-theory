@@ -126,7 +126,7 @@
 
 ## System wise:
 ### This is not the recommended way because the other user may edit or delete the variables. 
-### Security problem arises so go to user variables only.
+### Security problem arises so go to user variables only. If another user logs in he can easily see the environmnt variable set by previous user.
 ### Go to properties -> environment variable=>path 
 
 ## Development Setup:
