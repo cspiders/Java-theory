@@ -1,4 +1,4 @@
-# Class-01
+# Class-01 - Notes
 
 # => What is Java
 #	=> JDK Installation
