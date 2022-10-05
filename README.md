@@ -6,7 +6,7 @@
 # 4. Write first Java Class
 # 5. Naming conventions for Class, Interface, enums
 # 6. PATH Setting
-
+<br/>
 
 # 1. What is Java
  Java is a general-purpose programming language and is a Computing Platform to build standalone, web, and Enterprise applications and services.
@@ -15,6 +15,33 @@
    
 # 2. JDK Installation
 <br/> 
+
+## Here few questions arises in mind immediatly
+
+1. which version of Java need to install
+2. From where it needs to be downloaded.
+3. How to install it. 
+<br />
+
+## OpenJDK or Oracle JDK
+
+## A key difference going forward is the release schedule and support policy.
+
+## OpenJDK
+OpenJDK will have a feature release every 6 months which is only supported until the next feature release. It's essentially a continuous stream of releases targeted to developers.
+
+## Oracle JDK
+
+The Oracle JDK is targeted more towards an enterprise audience which values stability. It's based on one of the OpenJDK releases but is then given long term support (LTS). The Oracle JDK has releases planned every 3 years.
+
+Both <b> OpenJDK </b> and <b> Oracle JDK </b> are created and maintained currently by Oracle only.<br/>
+Almost every existing JDK is derived from OpenJDK. <br/>
+As suggested by many, licensing is a change between JDKs. <br/>
+Starting with JDK 11 accessing the long-time support Oracle JDK/Java SE will now require a commercial license. <br/>
+You should now pay attention to which JDK you're installing as Oracle JDK without subscription could stop working.<br/>
+
+## Installation Steps:
+
 # 3. The Platform
 <br> The meaning of platform is the hardware or software environment in which a program runs. 
 <br> We have some of the most popular platforms like Microsoft Windows, Linux, Solaris OS, and Mac OS are available in the market. 
