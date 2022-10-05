@@ -42,6 +42,16 @@ You should now pay attention to which JDK you're installing as Oracle JDK withou
 
 ## Installation Steps:
 
+### 1.	https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+### 2.	Choose Windows x64 Installer and click download link 
+### 3.	Just click it and say yes to all wizards. 
+### 4.	Installation is ready now.
+### 5.	Go to  C:\Program Files\Java\jdk-17.0.4.13 (JDK_HOME)
+### 6.	Here the bin contains the tools to compile and execute your Java program. 
+### 7.	Write helloworld Java program and start working.
+
+<br/>
+
 # 3. The Platform
 <br> The meaning of platform is the hardware or software environment in which a program runs. 
 <br> We have some of the most popular platforms like Microsoft Windows, Linux, Solaris OS, and Mac OS are available in the market. 
