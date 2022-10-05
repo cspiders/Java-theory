@@ -1,10 +1,11 @@
 # Class-01 - Notes
 
-# => What is Java
-#	=> JDK Installation
-#	=> Write first Java Class
-#  => Naming conventions for Class, Interface, enums
-#	=> PATH Setting
+# 1. What is Java
+# 2. JDK Installation
+# 3. The Platform
+# 4. Write first Java Class
+# 5. Naming conventions for Class, Interface, enums
+# 6. PATH Setting
 
 
 # 1. What is Java
@@ -12,7 +13,25 @@
  According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.
 <br />
    
-# 2. Write first Java Class
+# 2. JDK Installation
+<br/> 
+# 3. The Platform
+<br> The meaning of platform is the hardware or software environment in which a program runs. 
+<br> We have some of the most popular platforms like Microsoft Windows, Linux, Solaris OS, and Mac OS are available in the market. 
+<br> Most platforms can be described as a combination of the operating system and underlying hardware. 
+
+<br> The Java platform software-only platform that runs on top of other hardware-based platforms.
+<br> The Java platform has two components
+
+<br>      1.	The Java Virtual Machine
+<br>      2.	The Java Application Programming Interface (API)
+
+<br> Java Virtual Machine; it's the base for the Java platform and it can be installed on various hardware-based platforms.
+<br> The API is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are grouped into packages.
+
+<br />
+
+# 4. Write first Java Class
 ## Program-1
 
  Class HelloWorld <br>
@@ -38,7 +57,7 @@
  }<br>
 <br />
 
-# 3. Naming convention
+# 5. Naming conventions
  Naming conventions make programs easy to read and understand. They can also give information about the function of the identifier-for example, 
  whether it's a constant, package, or class-which can be helpful in understanding the code.
 <br />
@@ -94,37 +113,18 @@ double cementInKgs;<br>
  }<br>
 <br />
 
-# 4. The Platform
-<br> The meaning of platform is the hardware or software environment in which a program runs. 
-<br> We have some of the most popular platforms like Microsoft Windows, Linux, Solaris OS, and Mac OS are available in the market. 
-<br> Most platforms can be described as a combination of the operating system and underlying hardware. 
-
-<br> The Java platform software-only platform that runs on top of other hardware-based platforms.
-<br> The Java platform has two components
-
-<br>      1.	The Java Virtual Machine
-<br>      2.	The Java Application Programming Interface (API)
-
-<br> Java Virtual Machine; it's the base for the Java platform and it can be installed on various hardware-based platforms.
-<br> The API is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are grouped into packages.
-
-<br />
-
-# 4. JDK Installation
-<br/>
-
-# 5. PATH Setting
+# 6. PATH Setting
 <br> Specify command’s location to the commands
 <br> 1.	Command prompt wise
 <br> 2.	User wise 
 <br> 3.	Systemwise
 <br> Give absolute path of bin to the command prompt to tell where the tools related to execution are stored.
 
-<br>Command wise:
-<br> D:test> set PATH=c:\\program files\jdk\bin
+## Command wise:
+ D:test> set PATH=c:\\program files\jdk\bin
 
 ## User wise:
-### Go to properties -> environment variable=>path 
+Go to properties -> environment variable=>path 
 
 ## System wise:
 <br> This is not the recommended way because the other user may edit or delete the variables. 
