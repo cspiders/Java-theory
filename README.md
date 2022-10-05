@@ -7,6 +7,7 @@
 # 5. Naming conventions for Class, Interface, enums
 # 6. PATH Setting
 <br/>
+<br/>
 
 # 1. What is Java
  Java is a general-purpose programming language and is a Computing Platform to build standalone, web, and Enterprise applications and services.
@@ -25,7 +26,7 @@
 
 ## OpenJDK or Oracle JDK
 
-## A key difference going forward is the release schedule and support policy.
+A key difference going forward is the release schedule and support policy.
 
 ## OpenJDK
 OpenJDK will have a feature release every 6 months which is only supported until the next feature release. It's essentially a continuous stream of releases targeted to developers.
@@ -49,8 +50,17 @@ You should now pay attention to which JDK you're installing as Oracle JDK withou
 ### 5.	Go to  C:\Program Files\Java\jdk-17.0.4.13 (JDK_HOME)
 ### 6.	Here the bin contains the tools to compile and execute your Java program. 
 ### 7.	Write helloworld Java program and start working.
-
 <br/>
+
+## Development Setup:
+### src> javac HelloWorld.java
+### src>javac -d ../classes HelloWorld.java
+### classes> java HelloWorld
+### src>javac –help //which gives all the available options of javac.
+
+<br />
+  
+
 
 # 3. The Platform
 <br> The meaning of platform is the hardware or software environment in which a program runs. 
@@ -60,11 +70,11 @@ You should now pay attention to which JDK you're installing as Oracle JDK withou
 <br> The Java platform software-only platform that runs on top of other hardware-based platforms.
 <br> The Java platform has two components
 
-<br>      1.	The Java Virtual Machine
-<br>      2.	The Java Application Programming Interface (API)
+###     1.	The Java Virtual Machine
+###     2.	The Java Application Programming Interface (API)
 
-<br> Java Virtual Machine; it's the base for the Java platform and it can be installed on various hardware-based platforms.
-<br> The API is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are grouped into packages.
+<br> <b> Java Virtual Machine</b>. it's the base for the Java platform and it can be installed on various hardware-based platforms.
+<br> <b> The API </b> is a large collection of ready-made classes and interfaces grouped into libraries and these libraries are grouped into packages.
 
 <br />
 
@@ -113,42 +123,6 @@ You should now pay attention to which JDK you're installing as Oracle JDK withou
  2.	enum fields should be in all UPPER CASE (same as static final constants).<br>
 <br />
 
-## Program-4
-package com.test; <br>
-public class House { <br>
-//camelCase<br>
-// primitive datatypes<br>
-int sandInTons;<br>
-long bricksInNos;<br>
-double cementInKgs;<br>
- int labourInNos;<br>
- public static void main(String[] args) {<br>
- // derived datatypes<br>
- House house1  = new House();<br>
-	house1.sandInTons = 10000;<br>
-	house1.bricksInNos = 50000;<br>
-	house1.cementInKgs = 1000;<br>
-	house1.labourInNos = 20;<br>
- House house2 = new House();<br>
-   house2.sandInTons = 5000;<br>
- 	house2.bricksInNos = 33000;<br>
-	  house2.cementInKgs = 500;<br>
-	  house2.labourInNos = 10;<br>
-   House house3 = new House();<br>
-   house2.sandInTons = 500;<br>
-   house2.bricksInNos = 3000;<br>
-	  house2.cementInKgs = 50;<br>
-	  house2.labourInNos = 5;<br>
-  System.out.println(house1.costEstimation());<br>
-  System.out.println(house2.costEstimation());<br>
-  System.out.println(house3.costEstimation());<br>
- 	}<br>
- double costEstimation (){<br>
- double cost = sandInTons+bricksInNos+cementInKgs+labourInNos;<br>
- return cost;<br>
-	}<br>
- }<br>
-<br />
 
 # 6. PATH Setting
 <br> Specify command’s location to the commands
@@ -168,11 +142,4 @@ Go to properties -> environment variable=>path
 <br> Security problem arises so go to user variables only. If another user logs in he can easily see the environmnt variable set by previous user.
 <br> Go to properties -> environment variable=>path 
 
-## Development Setup:
-<br> src> javac HelloWorld.java
-<br> src>javac -d ../classes HelloWorld.java
-<br> classes> java HelloWorld
-<br> src>javac –help //which gives all the available options of javac.
 
-<br />
-  
