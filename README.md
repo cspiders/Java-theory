@@ -1,12 +1,13 @@
 # Class - 1 
 
 ### 1. What is Java
-### 3. JDK Installation
-### 3. JDK JRE JVM and Java API
-### 4. Why Java is Popular
-### 5. Java release history
+### 2. JDK Installation
+### 3. My first Java Class	
+### 4. JDK JRE JVM and Java API
+### 5. Why Java is Popular
+### 6. Java release history
 
-<br />
+
 
 # 1. What is Java
 
@@ -25,7 +26,9 @@ Java is a general-purpose programming language and is a Computing Platform to bu
 
 <br/>
 
-# 3. JDK JRE JVM and Java API
+# 3. My first Java Class	
+
+# 4. JDK JRE JVM and Java API
 
 ### JDK
 
@@ -49,7 +52,7 @@ The Java Virtual Machine provides a platform-independent way of executing code; 
 API stands for Application Programming Interface. API contains all the classes and interfaces developed by Java people . If we develop any code this must be combined with API code to execute the programs.
 <br />
 
-# 4. Why Java is Popular
+# 5. Why Java is Popular
 
 ### Java is Popular because of its Design Goals .
 
@@ -95,7 +98,7 @@ A central issue for the Java designers was that of code longevity and portabilit
 A central issue for the Java designers was that of the code longevity and portability. One of the main problems facing programmers is that no guarantee exists that if you write today, it will run tomorrow – even on the same machine. Operating system upgrades, processor upgrades, and changes in core system resources can all combine to make a program malfunction. The Java designers made several hard decisions in the Java Language and the Java Virtual Machine in an attempt to alter this situation. Their goal was to ‘write once; run anyware, anytime, forever ‘. To greater extent, this goal was accomplished.  MIGRATING ONE MACHINE TO ANDOTHER MACHINE WITHOUT ANY CHANGES TO THE PROGRAM.
 
 
-# 5. Java release timeline
+# 6. Java release timeline
 
 ##  https://en.wikipedia.org/wiki/Java_version_history
 
