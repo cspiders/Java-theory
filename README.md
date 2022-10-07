@@ -2,10 +2,10 @@
 
 # 1. What is Java
 # 2. JDK Installation
-# 3. The Platform
-# 4. Write first Java Class
-# 5. Naming conventions for Class, Interface, enums
-# 6. PATH Setting
+# 3. Write first Java Class
+# 4. PATH Setting
+
+
 <br/>
 <br/>
 
