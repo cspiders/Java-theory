@@ -8,6 +8,7 @@
 ### 6. Java release history
 
 
+<br />
 
 # 1. What is Java
 
