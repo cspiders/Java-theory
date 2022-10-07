@@ -22,13 +22,24 @@ Java is a general-purpose programming language and is a Computing Platform to bu
 ### 3.	Just click it and say yes to all wizards. 
 ### 4.	Installation is ready now.
 ### 5.	Go to  C:\Program Files\Java\jdk-17.0.4.13 (JDK_HOME)
-### 6.	Here the bin contains the tools to compile and execute your Java program. 
-### 7.	Write helloworld Java program and start working.
+### 6. Update the PATH in Environment variable with bin location. %JDK_HOME%\bin
+
 
 <br/>
 
 # 3. My first Java Class	
 
+	 
+##  Write helloworld Java program and start working. 
+
+      class HelloWorld{
+      public static void main(String args[]){
+           System.out.println("Hello World"); 
+         } 
+      } 
+  
+ ## Note :
+ ### The bin contains the tools to compile and execute your Java program.  
 <br />
 
 # 4. JDK JRE JVM and Java API
