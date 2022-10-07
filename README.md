@@ -1,4 +1,4 @@
-Class - 1 
+# Class - 1 
 
 ### 1. What is Java
 ### 3. JDK Installation
@@ -6,7 +6,7 @@ Class - 1
 ### 4. Why Java is Popular
 ### 5. Java release history
 
-
+<br />
 
 # 1. What is Java
 
@@ -23,27 +23,28 @@ Java is a general-purpose programming language and is a Computing Platform to bu
 ### 6.	Here the bin contains the tools to compile and execute your Java program. 
 ### 7.	Write helloworld Java program and start working.
 
+<br/>
 
 # 3. JDK JRE JVM and Java API
 
-## JDK
+### JDK
 
 Java Developer Kit contains tools needed to develop the Java programs, and JRE to run the programs. The tools include compiler (javac.exe), Java application launcher (java.exe), Appletviewer, etc… Compiler converts java code into byte code. Java application launcher opens a JRE, loads the class, and invokes its main method. The JDK is a development environment for building applications using the Java programming language.
 
 
-## JRE
+### JRE
 
 JRE = JVM + Class Libraries+ supporting files 
 
 Java Runtime Environment contains JVM, class libraries, and other supporting files. It does not contain any development tools such as compiler, debugger, etc. Actually, JVM runs the program, and it uses the class libraries, and other supporting files provided in JRE. If you want to run any java program, you need to have JRE installed in the system.
 
 
-## JVM
+### JVM
 
 The JVM translates bytecode into native machine code.
 The Java Virtual Machine provides a platform-independent way of executing code; programmers can concentrate on writing software, without having to be concerned with how or where it will run. 
 
-## JAVA API 
+### JAVA API 
 
 API stands for Application Programming Interface. API contains all the classes and interfaces developed by Java people . If we develop any code this must be combined with API code to execute the programs.
 <br />
@@ -98,11 +99,14 @@ A central issue for the Java designers was that of the code longevity and portab
 
 ##  https://en.wikipedia.org/wiki/Java_version_history
 
-# Java 00 fearures => Java beta version 1995
+## Java 00 fearures => Java beta version 1995
+<br />
 
-# Java 1.0 features => Jan 23, 1996 first stable version released 
+## Java 1.0 features => Jan 23, 1996 first stable version released 
 
-# Java 1.1 features => Feb 19, 1997 
+<br />
+
+## Java 1.1 features => Feb 19, 1997 
     AWT
     Inner classes
     Java beans 
@@ -114,39 +118,43 @@ A central issue for the Java designers was that of the code longevity and portab
     
     Java 1.1 divided into 3 parts J2SE + J2EE + J2ME 
 
-# J2SE 1.2 features  => Dec 08, 1998 
+## J2SE 1.2 features  => Dec 08, 1998 
     Swing API
     stritfp (removed from java17)
     Collection Framework
     JAVA size is tripled with 1500+ classes + 59 packages. 
       
-# J2SE 1.3 => May 08, 2000
+## J2SE 1.3 => May 08, 2000
     JNDI    - Java Naming and Directory Interface 
     HotSpot JVM 
   
-# J2SE 1.4  => Feb 06, 2002
-   
-   assert keyword 
-   Regular expressions
-   Non-blocking I/O (NIO)
+## J2SE 1.4  => Feb 06, 2002
+    assert keyword 
+    Regular expressions
+    Non-blocking I/O (NIO)
 
 
-# Java SE5 or 1.5 => Sep30, 2004
+## Java SE5 or 1.5 => Sep30, 2004
+    Generics, 
+    Annotations, 
+    Autoboxing/unboxing, 
+    Wrapper classes, 
+    Enumerations, 
+    var-args, 
+    Enhanced for loop, 
+    static imports. 
+    java.util.concurrency
 
-   Generics, Annotations, Autoboxing/unboxing, Wrapper classes, 
-   Enumerations, var-args, Enhanced for loop, static imports. 
-   java.util.concurrency
-
-# JavaSE6 features => Nov11, 2006
+## JavaSE6 features => Nov11, 2006
 
     JDBC4.0
     Performance improvements
     Navigable map
 
 
-Oracle purchased Sun Microsystems in January 27, 2010
+# Oracle purchased Sun Microsystems in January 27, 2010
 
-# JavaSE7 features => July 28, 2011
+## JavaSE7 features => July 28, 2011
    
     strings in switch
     try-with-resources
@@ -156,7 +164,7 @@ Oracle purchased Sun Microsystems in January 27, 2010
     catching multiple exceptions ,rethroewing exceptions with improved type checking
     java.nio.file,java.nio.file.spi,java.nio.file.attribute
 
-# JavaSE8 features => March 18, 2014
+## JavaSE8 features => March 18, 2014
 
     lambda expressions
     default and static methods in interfaces
@@ -182,7 +190,7 @@ Oracle purchased Sun Microsystems in January 27, 2010
       IntConsumer
 <br />
 
-# JavaSE9 features 
+## JavaSE9 features 
 
     JShell
     Jlink - Java linker
@@ -197,7 +205,7 @@ Oracle purchased Sun Microsystems in January 27, 2010
     GIGC
    
  <br/ > 
-# Java 10 features  => March20, 2018
+## Java 10 features  => March20, 2018
     - Local- variable type inference
 
 <br />
