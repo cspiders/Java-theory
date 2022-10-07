@@ -227,5 +227,33 @@ A central issue for the Java designers was that of the code longevity and portab
 
 <br />
 
+## Java 11 features  => March20, 2018
+
+     1. String Utility methods 
+     2. Local variable systax for Lambda expressions
+     3. Running Java file with single command
+     4. HttpClient 
+     5. Nested based access control
+     6. Reading/Writing Strigs to and from files (NIO)
+      // up to here enough  remaining are platform level changes which is not much needed to developers.
+
+## Java 12 & 13 dont have much language level changes
+## Java12 features  => March 19, 2019
+## Java13 features  => Sep 17, 2019
+
+    [Preview]
+    1. Switch Expressions 
+    2. Text Blocks
+
+## Java14 features  => March 17 , 2020
+
+    1. Switch Expressions 
+    2. NullPointerExpression (Meaningful / Helpful message)
+
+    [Preview]
+    1. Records 
+    2. text blocks
+    3. Pattern matching for instanceOf operator
+
 
 
