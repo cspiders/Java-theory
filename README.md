@@ -68,6 +68,13 @@ The Java Virtual Machine provides a platform-independent way of executing code; 
 API stands for Application Programming Interface. API contains all the classes and interfaces developed by Java people . If we develop any code this must be combined with API code to execute the programs.
 <br />
 
+### With most programming languages, you either compile or interpret a program so that you can run it on your computer. 
+
+### The Java programming language is unusual in that a program is both compiled and interpreted. 
+### With the compiler,first you translate a program into an intermediate language called Java bytecodes — the Platform-Independent codes interpreted by the interpreter on the Java platform. 
+### The interpreter parses and runs each Java bytecode instruction on the computer. Compilation happens just once; interpretation occurs each time the program is executed.
+
+
 # 5. Why Java is Popular
 
 ### Java is Popular because of its Design Goals .
