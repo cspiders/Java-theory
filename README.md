@@ -41,7 +41,8 @@ Java is a general-purpose programming language and is a Computing Platform to bu
  ## Note :
  ### The bin contains the tools to compile and execute your Java program.  
 <br />
-# https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html
+
+#  https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html
 
 # 4. JDK JRE JVM and Java API
 
