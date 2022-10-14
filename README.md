@@ -265,4 +265,32 @@ A central issue for the Java designers was that of the code longevity and portab
     3. Pattern matching for instanceOf operator
 
 
+# Difference between OpenJDK and OracleJDK
+
+
+A key difference going forward is the ReleaseSchedule and SupportPolicy.
+
+OpenJDK
+
+OpenJDK will have a feature release every 6 months which is only supported until the next feature release. It's essentially a continuous stream of releases targeted to developers.
+
+Oracle JDK
+
+The Oracle JDK is targeted more towards an enterprise audience which values stability. It's based on one of the OpenJDK releases but is then given long term support (LTS). The Oracle JDK has releases planned every 3 years.
+
+Both OpenJDK and Oracle JDK are created and maintained currently by Oracle only.
+
+OpenJDK and Oracle JDK are implementations of the same Java specification passed the TCK (Java Technology Certification Kit).
+
+Most of the vendors of JDK are written on top of OpenJDK by doing a few tweaks to [mostly to replace licensed proprietary parts / replace with more high-performance items that only work on specific OS] components without breaking the TCK compatibility.
+
+
+Many vendors implemented the Java specification and got TCK passed. For example, IBM J9, Azul Zulu, Azul Zing, and Oracle JDK.
+Almost every existing JDK is derived from OpenJDK.
+
+As suggested by many, licensing is a change between JDKs.
+
+Starting with JDK 11 accessing the long-time support Oracle JDK/Java SE will now require a commercial license. 
+
+You should now pay attention to which JDK you're installing as Oracle JDK without subscription could stop working.
 
