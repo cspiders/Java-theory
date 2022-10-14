@@ -265,6 +265,22 @@ A central issue for the Java designers was that of the code longevity and portab
     3. Pattern matching for instanceOf operator
 
 
+## Java 15 features
+
+    1. Sealed classes
+    2. Hidden classes
+    3. Text blocks 
+    4. Records
+
+## Java 16 features
+
+   1. Sealed classes
+   2. Records
+
+## Java 17 features
+
+   1. Sealed classes
+
 # Difference between OpenJDK and OracleJDK
 
 
