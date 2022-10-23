@@ -284,13 +284,13 @@ A central issue for the Java designers was that of the code longevity and portab
 # Difference between OpenJDK and OracleJDK
 
 
-A key difference going forward is the ReleaseSchedule and SupportPolicy.
+# A key difference going forward is the ReleaseSchedule and SupportPolicy.
 
-OpenJDK
+## OpenJDK
 
-OpenJDK will have a feature release every 6 months which is only supported until the next feature release. It's essentially a continuous stream of releases targeted to developers.
+ OpenJDK will have a feature release every 6 months which is only supported until the next feature release. It's essentially a continuous stream of releases   targeted to developers.
 
-Oracle JDK
+## Oracle JDK
 
 The Oracle JDK is targeted more towards an enterprise audience which values stability. It's based on one of the OpenJDK releases but is then given long term support (LTS). The Oracle JDK has releases planned every 3 years.
 
