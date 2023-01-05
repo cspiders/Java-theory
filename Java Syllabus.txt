@@ -1,0 +1,159 @@
+
+
+# Core-Java-Complete-Syllabus
+
+## NO COMPROMIZE ZONE - TRAINING-SYLLABUS 
+
+<br  />
+
+## Session-01
+
+### 1.	Introduction
+### 2.  JDK Installation
+### 3.	JDK JRE JVM and Java API
+### 4.	Why Java is Popular
+### 5. Java release history
+<br  />
+
+## Session-02 LEXICAL THINGS.
+
+
+### 1.	Identifiers
+### 2.	keywords
+### 3.	datatypes
+### 4.	literals 
+### 5.	Operators
+### 6.	Separators
+### 7. Comments
+### 8. White spaces
+
+ <br  />
+
+## Session-03 Control Structures and Looping
+
+### 1.	if
+### 2.	else-if
+### 3.	nested if-else
+### 4.	switch
+### 5.	while
+### 6.	Do-while
+### 7.	For
+### 8.	Foreach
+### 9.	Break
+### 10.	Continue
+### 11.	Examples
+
+<br  />
+
+## Session-04 – Arrays 
+
+### 1.	What is array?
+### 2.	Advantages and disadvantages
+### 3.	Declaring array and Initializing array
+### 4.	One dimensional array <br />
+4.1	Create array  <br />
+4.2	Add elements to array <br />
+4.3	Print array elements <br />
+4.4	Delete array elements <br />
+### 5.	Two-dimensional array
+5.1	Declare and define two-dimensional array <br />
+5.2	Print the items in two-dimensional array <br />
+5.3	Delete elements in two-dimensional array  <br />
+
+## Session-05 - Number Patterns and Star Patterns
+### 1. Number Programs
+### 2. Recursion 
+### 3. Square Patterns
+### 4. Traingle Patterns
+
+<br  />
+
+# *** I AM HAPPY THAT I COMPLETED  NO COMPROMIZE ZONE WITHOUT COMPROMISE ***
+
+<br />
+
+# Object Oriented Zone
+
+  This session completely focuses on Object Orientation 
+
+<br />
+
+# Session-06
+### Classes and Objects
+### Encapsulation
+
+<br />
+
+# Session-07
+### static
+### Constructors,IIB and SIB
+
+<br />
+
+# Session-08
+### Inheritence
+### Overriding
+### Abstraction and Abstract classes
+### Interfaces and Polymorphism 
+
+<br />
+
+# Session-09
+### Wrapper classes
+### var-args
+
+<br />
+
+
+## Session-10 JVM ARCHITECTURE
+
+### 1.	JVM Architecture <br />
+1.1	Class Loader subsystem <br />
+1.2	JVM Memory <br />
+1.3	Execution Engine <br />
+1.4	Java Native Interface <br />
+### 2.	Java documentation
+### 3.	Executable jar file creation
+
+<br />
+
+
+# ADVANCED ZONE
+
+
+# Session-11
+
+### Object class
+
+# Session-12
+
+### Inner classes
+
+# Session-13
+
+### Exception Handling
+
+# Session-14
+
+### String Handling
+
+# Session-15
+
+### Collection API
+
+# Session-16
+
+### Multitherading
+
+# Session-17
+
+### File Handling 
+
+# Session-18
+
+### Extra content
+
+<br />
+
+
+
